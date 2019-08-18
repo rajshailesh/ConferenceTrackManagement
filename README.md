@@ -1,5 +1,6 @@
 Solution for 'Conference Track Management'. This assignment is given by ThoughtWorks during their hiring process
 Foollwing are details
+Main method App.java (maven project)
 
 Problem Two: Conference Track Management
  
